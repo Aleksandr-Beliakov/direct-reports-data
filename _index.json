@@ -1,7 +1,7 @@
 {
   "astra-pools": [
-    "astra-pools_campaigns_daily_last_month",
     "astra-pools_campaigns_daily_this_month",
+    "astra-pools_campaigns_daily_last_month",
     "astra-pools_gender_age_last_month",
     "astra-pools_device_last_month",
     "astra-pools_query_category_last_month",
@@ -28,6 +28,7 @@
     "astra-pools_gender_age_month"
   ],
   "dbscdek": [
+    "dbscdek_gender_age_week",
     "dbscdek_campaigns_daily_last_month",
     "dbscdek_campaigns_daily_this_month",
     "dbscdek_gender_age_last_month",
@@ -42,7 +43,6 @@
     "dbscdek_placement_type_this_month",
     "dbscdek_region_this_month",
     "dbscdek_campaigns_this_month",
-    "dbscdek_gender_age_week",
     "dbscdek_device_week",
     "dbscdek_query_category_week",
     "dbscdek_placement_type_week",
@@ -61,6 +61,7 @@
     "evgeny-departament_roistat_campaigns_by_month"
   ],
   "test-construction": [
+    "test-construction_gender_age_week",
     "test-construction_campaigns_daily_last_month",
     "test-construction_campaigns_daily_this_month",
     "test-construction_gender_age_last_month",
@@ -75,7 +76,6 @@
     "test-construction_placement_type_this_month",
     "test-construction_region_this_month",
     "test-construction_campaigns_this_month",
-    "test-construction_gender_age_week",
     "test-construction_device_week",
     "test-construction_query_category_week",
     "test-construction_placement_type_week",
@@ -97,6 +97,7 @@
     "tattoo-id_roistat_week"
   ],
   "zetserviceS": [
+    "zetserviceS_gender_age_week",
     "zetserviceS_campaigns_daily_last_month",
     "zetserviceS_campaigns_daily_this_month",
     "zetserviceS_gender_age_last_month",
@@ -111,7 +112,6 @@
     "zetserviceS_placement_type_this_month",
     "zetserviceS_region_this_month",
     "zetserviceS_campaigns_this_month",
-    "zetserviceS_gender_age_week",
     "zetserviceS_device_week",
     "zetserviceS_query_category_week",
     "zetserviceS_placement_type_week",
@@ -125,6 +125,7 @@
     "astra-pools_gender_age_month"
   ],
   "porg-wxlveogt": [
+    "porg-wxlveogt_gender_age_week",
     "porg-wxlveogt_campaigns_daily_last_month",
     "porg-wxlveogt_campaigns_daily_this_month",
     "porg-wxlveogt_gender_age_last_month",
@@ -139,7 +140,6 @@
     "porg-wxlveogt_placement_type_this_month",
     "porg-wxlveogt_region_this_month",
     "porg-wxlveogt_campaigns_this_month",
-    "porg-wxlveogt_gender_age_week",
     "porg-wxlveogt_device_week",
     "porg-wxlveogt_query_category_week",
     "porg-wxlveogt_placement_type_week",
@@ -153,7 +153,6 @@
     "astra-pools_gender_age_month"
   ],
   "porg-mwalozyu": [
-    "porg-mwalozyu_campaigns_this_month",
     "porg-mwalozyu_campaigns_daily_last_month",
     "porg-mwalozyu_campaigns_daily_this_month",
     "porg-mwalozyu_gender_age_last_month",
@@ -167,6 +166,7 @@
     "porg-mwalozyu_query_category_this_month",
     "porg-mwalozyu_placement_type_this_month",
     "porg-mwalozyu_region_this_month",
+    "porg-mwalozyu_campaigns_this_month",
     "porg-mwalozyu_gender_age_week",
     "porg-mwalozyu_device_week",
     "porg-mwalozyu_query_category_week",
@@ -214,9 +214,9 @@
     "porg-53gtrdi3_campaigns_week"
   ],
   "porg-5oukxmoi": [
+    "porg-5oukxmoi_gender_age_last_month",
     "porg-5oukxmoi_campaigns_daily_last_month",
     "porg-5oukxmoi_campaigns_daily_this_month",
-    "porg-5oukxmoi_gender_age_last_month",
     "porg-5oukxmoi_device_last_month",
     "porg-5oukxmoi_query_category_last_month",
     "porg-5oukxmoi_placement_type_last_month",
