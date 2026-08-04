@@ -1,7 +1,5 @@
 {
   "astra-pools": [
-    "astra-pools_campaigns_daily_last_month",
-    "astra-pools_campaigns_daily_this_month",
     "astra-pools_gender_age_last_month",
     "astra-pools_device_last_month",
     "astra-pools_query_category_last_month",
@@ -20,6 +18,8 @@
     "astra-pools_placement_type_week",
     "astra-pools_region_week",
     "astra-pools_campaigns_week",
+    "astra-pools_campaigns_daily_last_month",
+    "astra-pools_campaigns_daily_this_month",
     "astra-pools_campaigns_month",
     "astra-pools_region_month",
     "astra-pools_placement_type_month",
