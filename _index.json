@@ -56,9 +56,9 @@
     "astra-pools_gender_age_month"
   ],
   "evgeny-departament": [
-    "evgeny-departament_roistat_campaigns_this_month",
+    "evgeny-departament_roistat_campaigns_by_month",
     "evgeny-departament_roistat_daily",
-    "evgeny-departament_roistat_campaigns_by_month"
+    "evgeny-departament_roistat_campaigns_this_month"
   ],
   "test-construction": [
     "test-construction_device_last_month",
@@ -89,9 +89,9 @@
     "astra-pools_gender_age_month"
   ],
   "tattoo-id": [
-    "tattoo-id_roistat_campaigns_this_month",
-    "tattoo-id_roistat_daily",
     "tattoo-id_roistat_campaigns_by_month",
+    "tattoo-id_roistat_daily",
+    "tattoo-id_roistat_campaigns_this_month",
     "tattoo-id_roistat_last_month",
     "tattoo-id_roistat_this_month",
     "tattoo-id_roistat_week"
@@ -181,14 +181,14 @@
     "astra-pools_gender_age_month"
   ],
   "trans-logistic": [
-    "trans-logistic_roistat_campaigns_this_month",
+    "trans-logistic_roistat_campaigns_by_month",
     "trans-logistic_roistat_daily",
-    "trans-logistic_roistat_campaigns_by_month"
+    "trans-logistic_roistat_campaigns_this_month"
   ],
   "livdom": [
-    "livdom_roistat_campaigns_this_month",
+    "livdom_roistat_campaigns_by_month",
     "livdom_roistat_daily",
-    "livdom_roistat_campaigns_by_month"
+    "livdom_roistat_campaigns_this_month"
   ],
   "porg-53gtrdi3": [
     "Sheet1",
