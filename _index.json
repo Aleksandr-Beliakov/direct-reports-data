@@ -207,8 +207,8 @@
   ],
   "livdom": [
     "livdom_roistat_campaigns_by_month",
-    "livdom_roistat_campaigns_this_month",
-    "livdom_roistat_daily"
+    "livdom_roistat_daily",
+    "livdom_roistat_campaigns_this_month"
   ],
   "porg-53gtrdi3": [
     "Sheet1",
