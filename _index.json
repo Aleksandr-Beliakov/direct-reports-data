@@ -302,7 +302,6 @@
   ],
   "porg-a6ki2rrj": [
     "Sheet1",
-    "porg-a6ki2rrj_campaigns_week",
     "porg-a6ki2rrj_campaigns_daily_last_month",
     "porg-a6ki2rrj_campaigns_daily_this_month",
     "porg-a6ki2rrj_gender_age_last_month",
@@ -321,6 +320,7 @@
     "porg-a6ki2rrj_device_week",
     "porg-a6ki2rrj_query_category_week",
     "porg-a6ki2rrj_placement_type_week",
-    "porg-a6ki2rrj_region_week"
+    "porg-a6ki2rrj_region_week",
+    "porg-a6ki2rrj_campaigns_week"
   ]
 }
