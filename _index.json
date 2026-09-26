@@ -257,6 +257,9 @@
   ],
   "porg-54cwazpy": [
     "Sheet1",
+    "porg-54cwazpy_campaigns_daily_last_month",
+    "porg-54cwazpy_campaigns_daily_this_month",
+    "porg-54cwazpy_gender_age_last_month",
     "porg-54cwazpy_device_last_month",
     "porg-54cwazpy_query_category_last_month",
     "porg-54cwazpy_placement_type_last_month",
@@ -273,12 +276,10 @@
     "porg-54cwazpy_query_category_week",
     "porg-54cwazpy_placement_type_week",
     "porg-54cwazpy_region_week",
-    "porg-54cwazpy_campaigns_week",
-    "porg-54cwazpy_campaigns_daily_last_month",
-    "porg-54cwazpy_campaigns_daily_this_month"
+    "porg-54cwazpy_campaigns_week"
   ],
   "porg-55h6w4uw": [
-    "porg-55h6w4uw_placement_type_week",
+    "porg-55h6w4uw_region_week",
     "porg-55h6w4uw_campaigns_daily_last_month",
     "porg-55h6w4uw_campaigns_daily_this_month",
     "porg-55h6w4uw_gender_age_last_month",
@@ -296,7 +297,7 @@
     "porg-55h6w4uw_gender_age_week",
     "porg-55h6w4uw_device_week",
     "porg-55h6w4uw_query_category_week",
-    "porg-55h6w4uw_region_week",
+    "porg-55h6w4uw_placement_type_week",
     "porg-55h6w4uw_campaigns_week"
   ],
   "porg-a6ki2rrj": [
