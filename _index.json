@@ -1,6 +1,16 @@
 {
   "astra-pools": [
+    "astra-pools_placement_type_week",
+    "astra-pools_device_this_month",
+    "astra-pools_query_category_this_month",
+    "astra-pools_placement_type_this_month",
+    "astra-pools_region_this_month",
+    "astra-pools_campaigns_this_month",
+    "astra-pools_gender_age_week",
+    "astra-pools_device_week",
     "astra-pools_query_category_week",
+    "astra-pools_region_week",
+    "astra-pools_campaigns_week",
     "astra-pools_campaigns_daily_last_month",
     "astra-pools_campaigns_daily_this_month",
     "astra-pools_gender_age_last_month",
@@ -10,16 +20,6 @@
     "astra-pools_region_last_month",
     "astra-pools_campaigns_last_month",
     "astra-pools_gender_age_this_month",
-    "astra-pools_device_this_month",
-    "astra-pools_query_category_this_month",
-    "astra-pools_placement_type_this_month",
-    "astra-pools_region_this_month",
-    "astra-pools_campaigns_this_month",
-    "astra-pools_gender_age_week",
-    "astra-pools_device_week",
-    "astra-pools_placement_type_week",
-    "astra-pools_region_week",
-    "astra-pools_campaigns_week",
     "astra-pools_campaigns_month",
     "astra-pools_region_month",
     "astra-pools_placement_type_month",
@@ -109,9 +109,9 @@
     "astra-pools_gender_age_month"
   ],
   "tattoo-id": [
-    "tattoo-id_roistat_campaigns_this_month",
-    "tattoo-id_roistat_daily",
     "tattoo-id_roistat_campaigns_by_month",
+    "tattoo-id_roistat_daily",
+    "tattoo-id_roistat_campaigns_this_month",
     "tattoo-id_roistat_last_month",
     "tattoo-id_roistat_this_month",
     "tattoo-id_roistat_week"
@@ -201,14 +201,14 @@
     "astra-pools_gender_age_month"
   ],
   "trans-logistic": [
-    "trans-logistic_roistat_campaigns_this_month",
+    "trans-logistic_roistat_campaigns_by_month",
     "trans-logistic_roistat_daily",
-    "trans-logistic_roistat_campaigns_by_month"
+    "trans-logistic_roistat_campaigns_this_month"
   ],
   "livdom": [
-    "livdom_roistat_campaigns_this_month",
+    "livdom_roistat_campaigns_by_month",
     "livdom_roistat_daily",
-    "livdom_roistat_campaigns_by_month"
+    "livdom_roistat_campaigns_this_month"
   ],
   "porg-53gtrdi3": [
     "Sheet1",
@@ -257,6 +257,7 @@
   ],
   "porg-54cwazpy": [
     "Sheet1",
+    "porg-54cwazpy_campaigns_daily_last_month",
     "porg-54cwazpy_campaigns_daily_this_month",
     "porg-54cwazpy_gender_age_last_month",
     "porg-54cwazpy_device_last_month",
@@ -275,18 +276,17 @@
     "porg-54cwazpy_query_category_week",
     "porg-54cwazpy_placement_type_week",
     "porg-54cwazpy_region_week",
-    "porg-54cwazpy_campaigns_week",
-    "porg-54cwazpy_campaigns_daily_last_month"
+    "porg-54cwazpy_campaigns_week"
   ],
   "porg-55h6w4uw": [
-    "porg-55h6w4uw_region_last_month",
+    "porg-55h6w4uw_campaigns_last_month",
     "porg-55h6w4uw_campaigns_daily_last_month",
     "porg-55h6w4uw_campaigns_daily_this_month",
     "porg-55h6w4uw_gender_age_last_month",
     "porg-55h6w4uw_device_last_month",
     "porg-55h6w4uw_query_category_last_month",
     "porg-55h6w4uw_placement_type_last_month",
-    "porg-55h6w4uw_campaigns_last_month",
+    "porg-55h6w4uw_region_last_month",
     "porg-55h6w4uw_gender_age_this_month",
     "porg-55h6w4uw_device_this_month",
     "porg-55h6w4uw_query_category_this_month",
