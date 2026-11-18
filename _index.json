@@ -118,6 +118,14 @@
   ],
   "zetserviceS": [
     "zetserviceS_campaigns_week",
+    "zetserviceS_campaigns_daily_last_month",
+    "zetserviceS_campaigns_daily_this_month",
+    "zetserviceS_gender_age_last_month",
+    "zetserviceS_device_last_month",
+    "zetserviceS_query_category_last_month",
+    "zetserviceS_placement_type_last_month",
+    "zetserviceS_region_last_month",
+    "zetserviceS_campaigns_last_month",
     "zetserviceS_gender_age_this_month",
     "zetserviceS_device_this_month",
     "zetserviceS_query_category_this_month",
@@ -129,14 +137,6 @@
     "zetserviceS_query_category_week",
     "zetserviceS_placement_type_week",
     "zetserviceS_region_week",
-    "zetserviceS_campaigns_daily_last_month",
-    "zetserviceS_campaigns_daily_this_month",
-    "zetserviceS_gender_age_last_month",
-    "zetserviceS_device_last_month",
-    "zetserviceS_query_category_last_month",
-    "zetserviceS_placement_type_last_month",
-    "zetserviceS_region_last_month",
-    "zetserviceS_campaigns_last_month",
     "astra-pools_campaigns_month",
     "astra-pools_region_month",
     "astra-pools_placement_type_month",
@@ -145,7 +145,7 @@
     "astra-pools_gender_age_month"
   ],
   "porg-wxlveogt": [
-    "porg-wxlveogt_query_category_this_month",
+    "porg-wxlveogt_placement_type_this_month",
     "porg-wxlveogt_campaigns_daily_last_month",
     "porg-wxlveogt_campaigns_daily_this_month",
     "porg-wxlveogt_gender_age_last_month",
@@ -156,7 +156,7 @@
     "porg-wxlveogt_campaigns_last_month",
     "porg-wxlveogt_gender_age_this_month",
     "porg-wxlveogt_device_this_month",
-    "porg-wxlveogt_placement_type_this_month",
+    "porg-wxlveogt_query_category_this_month",
     "porg-wxlveogt_region_this_month",
     "porg-wxlveogt_campaigns_this_month",
     "porg-wxlveogt_gender_age_week",
@@ -173,7 +173,7 @@
     "astra-pools_gender_age_month"
   ],
   "porg-mwalozyu": [
-    "porg-mwalozyu_region_this_month",
+    "porg-mwalozyu_campaigns_this_month",
     "porg-mwalozyu_campaigns_daily_last_month",
     "porg-mwalozyu_campaigns_daily_this_month",
     "porg-mwalozyu_gender_age_last_month",
@@ -186,7 +186,7 @@
     "porg-mwalozyu_device_this_month",
     "porg-mwalozyu_query_category_this_month",
     "porg-mwalozyu_placement_type_this_month",
-    "porg-mwalozyu_campaigns_this_month",
+    "porg-mwalozyu_region_this_month",
     "porg-mwalozyu_gender_age_week",
     "porg-mwalozyu_device_week",
     "porg-mwalozyu_query_category_week",
@@ -279,10 +279,10 @@
     "porg-54cwazpy_campaigns_week"
   ],
   "porg-55h6w4uw": [
-    "porg-55h6w4uw_gender_age_last_month",
+    "porg-55h6w4uw_device_last_month",
     "porg-55h6w4uw_campaigns_daily_last_month",
     "porg-55h6w4uw_campaigns_daily_this_month",
-    "porg-55h6w4uw_device_last_month",
+    "porg-55h6w4uw_gender_age_last_month",
     "porg-55h6w4uw_query_category_last_month",
     "porg-55h6w4uw_placement_type_last_month",
     "porg-55h6w4uw_region_last_month",
@@ -308,6 +308,7 @@
     "porg-a6ki2rrj_device_last_month",
     "porg-a6ki2rrj_query_category_last_month",
     "porg-a6ki2rrj_placement_type_last_month",
+    "porg-a6ki2rrj_region_last_month",
     "porg-a6ki2rrj_campaigns_last_month",
     "porg-a6ki2rrj_gender_age_this_month",
     "porg-a6ki2rrj_device_this_month",
@@ -320,8 +321,7 @@
     "porg-a6ki2rrj_query_category_week",
     "porg-a6ki2rrj_placement_type_week",
     "porg-a6ki2rrj_region_week",
-    "porg-a6ki2rrj_campaigns_week",
-    "porg-a6ki2rrj_region_last_month"
+    "porg-a6ki2rrj_campaigns_week"
   ],
   "porg-m2sqd3da": [
     "Sheet1",
